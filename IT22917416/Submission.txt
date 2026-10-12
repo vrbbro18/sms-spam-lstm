@@ -1,0 +1,12 @@
+SE4050 Deep Learning - SMS Spam Detection using LSTM
+Student: Lakshan RHR | IT22917416
+GitHub project link: [ADD YOUR PUBLISHED GITHUB REPOSITORY URL]
+YouTube demonstration link: [ADD YOUR UPLOADED 10-MINUTE VIDEO URL]
+
+PRE-SUBMISSION STATUS
+This package is a single-model implementation. Lecturer approval for departure
+from the required four supervised models has not been established.
+Authentic Turnitin similarity report: NOT INCLUDED; obtain through university access.
+Saved model.pt and dataset: remain on the student's laptop, not included here.
+Source code is included. Follow code/README.md to download data and train.
+GradeScope and CourseWeb uploads: not performed.
